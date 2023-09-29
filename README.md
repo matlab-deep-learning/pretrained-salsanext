@@ -2,6 +2,8 @@
 
 This repository provides a pretrained SalsaNext[1] segmentation model in MATLAB&reg;.
 
+[![Open in MATLAB Online](https://www.mathworks.com/images/responsive/global/open-in-matlab-online.svg)](https://matlab.mathworks.com/open/github/v1?repo=matlab-deep-learning/pretrained-salsanext)
+
 Requirements
 ------------
 
